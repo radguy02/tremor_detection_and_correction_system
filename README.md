@@ -1,4 +1,4 @@
-# 🤝 Tremor Suppression Device
+# 🤝 Tremor Detection and Correction System
 ### ESP32 + MPU-6050 + Servo | Real-Time PD Control with Band-Pass Filtering
 
 > An active tremor-cancellation system that detects hand tremors in the Parkinson's/essential tremor frequency range (3–12 Hz) and drives a servo motor in real-time to counteract the motion — using an ESP32, MPU-6050 IMU, and a PD feedback controller.
